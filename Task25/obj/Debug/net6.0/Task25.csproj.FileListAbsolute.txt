@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\bin\Debug\net6.0\Task25.exe
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\bin\Debug\net6.0\Task25.deps.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\bin\Debug\net6.0\Task25.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\bin\Debug\net6.0\Task25.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\Task25.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\refint\Task25.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\Task25.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar3\CodeC-\Task25\obj\Debug\net6.0\ref\Task25.dll
